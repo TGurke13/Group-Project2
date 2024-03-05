@@ -9,34 +9,35 @@ This project aims to analyze a dataset containing information about diabetic pat
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+## Prerequisites
 
 What things you need to install the software and how to install them:
 
 
-Installation
+- Installation
 A step-by-step series of examples that tell you how to get a development environment running:
 
-Clone the repo
-git clone https://yourrepository.git
+- Clone the repo
+`git clone https://github.com/TGurke13/Group-Project2.git`
 
-Install the required packages
-pip install -r requirements.txt
+- Install the required packages
+`pip install -r requirements.txt`
 
-Run the Jupyter Notebook
-jupyter notebook
+- Run the Jupyter Notebook
+`jupyter notebook`
 
 # Built With
 
 * [Pandas](https://pandas.pydata.org/) - Data manipulation and analysis
 * [Matplotlib](https://matplotlib.org/) - Data visualization
 * [Seaborn](https://seaborn.pydata.org/) - Data visualization
+* [Scikit-learn](https://scikit-learn.org/stable/) - Model manipulation and analysis
 
 # Authors
-Joe 
-Isaac
-Scott
-Thomas
+- Joe 
+- Isaac
+- Scott
+- Thomas
 
 ## License
 
